@@ -1,4 +1,3 @@
-#
 # Journalistic ethics
 
 See template.html file for a succint and clear expression of the goals of this little page.
@@ -17,11 +16,16 @@ See template.html file for a succint and clear expression of the goals of this l
 
 # TODO
     [] is meta info in the header needed for seo?
-    [] domain to buy
+    [] buy domain
+    [] english translation?
+        - contact links would be wrong cause they point to romanian pages
 
 # Referinte
 
     http://www.aktual24.ro/campanie-initiata-de-un-cunoscut-ong-facem-apel-la-intreruperea-contractelor-de-publicitate-cu-antena-3-rtv-si-b1-tv/
+
    	https://en.wikipedia.org/wiki/Journalism_ethics_and_standards
+
     http://blog.tides.org/2010/10/15/dear-fox-advertiser/
+    
     http://www.aktual24.ro/dezinformarile-de-la-antena-3-si-romania-tv-sunt-taxate-dur-trei-branduri-puternice-isi-retrag-reclamele-de-la-cele-doua-posturi-mincinoase/

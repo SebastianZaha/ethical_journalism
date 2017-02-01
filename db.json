@@ -1,73 +1,177 @@
 {
+    "Airwaves": {
+        "last_broadcast": "2017-01-28",
+        "url": "https://www.facebook.com/Airwaves.ro/"
+    },
+    "Apivita": {
+        "last_broadcast": "2017-01-31",
+        "url": "https://www.facebook.com/Apivita.Ro/"
+    },
     "Ariel": {
         "company": "Procter & Gamble",
         "last_broadcast": "2017-01-25",
         "url": "https://pgconsumersupport.secure.force.com/ContactUs/emailus?brand=P%26G&country=Romania&language=Romanian"
+    },
+    "Astra Vagoane Calatori": {
+        "last_broadcast": "2017-01-28",
+        "url": "http://www.astra-passengers.ro/contact.html"
     },
     "BRD": {
         "last_broadcast": "2017-01-25",
         "url": "https://www.brd.ro/en/contact-us"
     },
     "Betano": {
-        "last_broadcast": "2017-01-25",
+        "last_broadcast": "2017-01-31",
         "url": "https://ro.betano.com/myaccount/contact"
+    },
+    "Billa": {
+        "last_broadcast": "2017-02-01",
+        "url": "http://www.billa.ro/Billa/Contact/Contact/dd_bi_subpage.aspx"
+    },
+    "Bonux": {
+        "company": "Procter & Gamble",
+        "last_broadcast": "2017-02-01",
+        "url": "https://pgconsumersupport.secure.force.com/ContactUs/emailus?brand=P%26G&country=Romania&language=Romanian"
     },
     "Bucovina": {
         "last_broadcast": "2017-01-25",
         "url": "http://www.apabucovina.ro/contact/"
     },
+    "Carrefour": {
+        "last_broadcast": "2017-01-28",
+        "url": "https://www.carrefour.ro/utile/contact/"
+    },
+    "Citroen C3": {
+        "last_broadcast": "2017-02-01",
+        "url": "http://www.citroen.ro/contacteaza-ne/"
+    },
+    "Doncafe": {
+        "last_broadcast": "2017-02-01",
+        "url": "https://www.facebook.com/Doncafe"
+    },
+    "Dormeo": {
+        "last_broadcast": "2017-02-01",
+        "url": "http://www.dormeo.ro/contact/"
+    },
+    "Dr Oetker": {
+        "last_broadcast": "2017-02-01",
+        "url": "http://www.oetker.ro/ro-ro/contact/contact.html"
+    },
+    "Frosta": {
+        "last_broadcast": "2017-01-27",
+        "url": "http://frosta.ro/ro/contact/contact.html"
+    },
     "Gothaer": {
-        "last_broadcast": "2017-01-25",
+        "last_broadcast": "2017-02-01",
         "url": "https://www.gothaer.ro/despre-noi/contact/"
     },
     "Ing Bank": {
         "last_broadcast": "2017-01-25",
         "url": "https://www.ing.ro/ing-in-romania/contact"
     },
+    "Johnson's Baby": {
+        "last_broadcast": "2017-02-01",
+        "url": "https://www.johnsonsbaby.ro/contactati-ne"
+    },
     "Kinder": {
         "company": "Ferrero",
-        "last_broadcast": "2017-01-25",
+        "last_broadcast": "2017-01-31",
         "url": "https://www.ferrero.ro/Contacts%20Page/?mail=1"
     },
+    "Lenor": {
+        "company": "Procter & Gamble",
+        "last_broadcast": "2017-01-28",
+        "url": "https://pgconsumersupport.secure.force.com/ContactUs/emailus?brand=P%26G&country=Romania&language=Romanian"
+    },
+    "Libra Bank": {
+        "last_broadcast": "2017-01-31",
+        "url": "https://www.librabank.ro/contact"
+    },
     "Listerine": {
-        "last_broadcast": "2017-01-25",
+        "last_broadcast": "2017-02-01",
         "url": "http://www.listerine-ro.com/contact"
     },
+    "M&M": {
+        "last_broadcast": "2017-01-27",
+        "url": "https://www.facebook.com/MMsRomania/"
+    },
+    "Malta Travel": {
+        "last_broadcast": "2017-02-01",
+        "url": "http://www.malta.ro/contact"
+    },
+    "Metro": {
+        "last_broadcast": "2017-01-27",
+        "url": "https://www.metro.ro/contact"
+    },
+    "Neumarkt": {
+        "last_broadcast": "2017-01-28",
+        "url": ""
+    },
+    "Oral B": {
+        "company": "Procter & Gamble",
+        "last_broadcast": "2017-01-27",
+        "url": "https://pgconsumersupport.secure.force.com/ContactUs/emailus?brand=P%26G&country=Romania&language=Romanian"
+    },
     "Orbit": {
-        "last_broadcast": "2017-01-25",
+        "last_broadcast": "2017-01-28",
         "url": "http://www.orbitromania.ro/en/contact.html"
     },
     "Orhideea Gardens": {
-        "last_broadcast": "2017-01-25",
+        "last_broadcast": "2017-01-31",
         "url": "http://www.orhideeagardens.ro/contact"
     },
-    "PokerStars": {
-        "last_broadcast": "2017-01-25",
+    "Paralela 45": {
+        "last_broadcast": "2017-01-27",
+        "url": "http://www.paralela45.ro/contact"
+    },
+    "Penny": {
+        "last_broadcast": "2017-01-29",
+        "url": "http://www.penny.ro/TopMetanavigation/Contact/Contact/pe_Contact.aspx"
+    },
+    "Pokerstars": {
+        "last_broadcast": "2017-01-31",
         "url": ""
     },
-    "Profi ": {
-        "last_broadcast": "2017-01-25",
+    "Profi": {
+        "last_broadcast": "2017-02-01",
         "url": "http://www.profi.ro/contact/sediul_central_profi.html#.WJI7qxsrJLk"
     },
+    "Raffaello": {
+        "company": "Ferrero",
+        "last_broadcast": "2017-02-01",
+        "url": "https://www.ferrero.ro/Contacts%20Page/?mail=1"
+    },
     "Ryanair": {
-        "last_broadcast": "2017-01-25",
+        "last_broadcast": "2017-02-01",
         "url": ""
     },
-    "Selgros Cash & Carry": {
-        "last_broadcast": "2017-01-25",
+    "Sanytol": {
+        "last_broadcast": "2017-01-27",
+        "url": ""
+    },
+    "Scandia Sibiu": {
+        "last_broadcast": "2017-02-01",
+        "url": "http://www.scandia.ro/contact.html"
+    },
+    "Selgros": {
+        "last_broadcast": "2017-02-01",
         "url": "http://www.selgros.ro/contact"
     },
     "Tide": {
         "company": "Procter & Gamble",
-        "last_broadcast": "2017-01-25",
+        "last_broadcast": "2017-02-01",
         "url": "https://pgconsumersupport.secure.force.com/ContactUs/emailus?brand=P%26G&country=Romania&language=Romanian"
     },
+    "Timisoreana": {
+        "last_broadcast": "2017-01-31",
+        "url": "http://beretimisoreana.ro/contact/"
+    },
     "V-Tac": {
-        "last_broadcast": "2017-01-25",
+        "last_broadcast": "2017-01-31",
         "url": "http://www.v-tac-led.ro/contact"
     },
     "Vanish": {
-        "last_broadcast": "2017-01-25",
+        "last_broadcast": "2017-01-27",
         "url": "http://www.vanish.ro/contacta%C5%A3i-ne"
     }
 }

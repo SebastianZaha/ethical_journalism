@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Etică și responsabilitate în presă</title>
+
+	<style type="text/css">
+			body {
+			font-family: "Helvetica Neue", Helvetica, Arial, freesans, sans-serif;
+			color: #444;
+			line-height: 1.6em;
+		}
+		div {
+			overflow: visible;
+		}
+		p, h1, h2, div.subtitle, hr, figcaption, section, blockquote {
+			max-width: 685px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		figure {
+			display: table;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 25px;
+		}
+		img {
+			max-width: 100%;
+			min-height: 500px;
+			max-height: 85vh;
+			max-width: 1000px;
+		}
+		a, a:visited {
+			color: #4183c4;
+		}
+		figcaption {
+			font-style: italic;
+			color: #666;
+			text-align: center;			
+		}
+		hr {
+			border-width: 1px 0 0 0;
+			border-style: solid;
+			border-color: #dedfe0;
+			margin: 30px auto;
+		}
+		h1 {
+			font-size: 32px;
+			color: #4183c4;
+			font-weight: 500;
+			text-align: center;
+		}
+		h2 {
+			font-size: 20px;
+			font-weight: 500;			
+    		color: #4183c4;
+		}
+		.subtitle {
+			color: #666;
+			font-style: italic;
+			text-align: center;
+			border-bottom: 1px solid #dedfe0;
+			padding-bottom: 20px;
+		}
+
+		section {
+			margin-top: 40px;
+			padding-top: 40px;
+			border-width: 1px 0 0;
+			border-style: solid;
+			border-color: #dedfe0;
+		}
+
+		@media only screen and (max-width: 999px) {
+			p, h1, div.subtitle {
+				width: 95vw;
+				max-width: 95vw;
+			}
+			img {
+				max-width: 95vw;
+				min-height: 200px;
+			}
+		}
+
+
+		blockquote {
+			font-family: monospace;
+		}
+		input.filter_large {
+			width: 500px;
+			padding: 8px;
+		    border-radius: 2px;
+		    border: 1px solid #aaa;
+    		margin: 0 0 20px 35px;
+			height: 16px;
+			font-size: 13px;
+			line-height: 20px;
+		}
+		.bordered_table {
+		    border-radius: 2px;
+			border: 2px solid #517ca1;
+		}
+		table {
+			border-collapse: collapse;
+			width: 90%;
+			border-spacing: 2px;
+			border-color: grey;
+		}
+		table td {
+			line-height: 20px;
+			border: 1px solid #ccc;
+			padding: 4px 10px;
+		}
+		.min_width {
+  			white-space: nowrap;
+  			width: 1%;
+		}
+		.c {
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<h1>Etică și responsabilitate în presă</h1>
+	<hr>
+	<br>
+
+	<p>
+		Presa trebuie să respecte <a href="https://en.wikipedia.org/wiki/Journalism_ethics_and_standards"> standarde jurnalistice și coduri etice</a> pentru a face un serviciu populației, precum: <i>onestitatea</i>, <i>imparțialitatea</i>, <i>obiectivitatea</i>, <i>corectitudinea</i> și <i>interesul public</i>.
+	</p>
+	<p>
+		Televiziunile <b>Antena3</b> și <b>RomâniaTV</b> sunt printre cele mai reprezentative exemple ale încălcării constante ale majorității pricipiilor menționate. Ele prezintă publicului știrile în mod tendențios și manipulator, având astfel un efect profund asupra viitorului țării, prin influența politică pe care o exercită. 
+	</p>
+	<p>
+		Spațiul de reclamă pe care unele companii îl cumpără la aceste televiziuni finanțează în mod direct producția acestui tip de presă.
+	</p>
+	<p>
+		Propunem celor care nu susțin presa de această natură să nu încurajeze producerea ei, printr-un <b>refuz de a cumpăra produsele companiilor care o finanțează</b>.
+	</p>
+	<p>
+		Poți ajuta și tu, cititorule, dedicând doar 1 minut, trimițând un email unei companii pe care o folosești din lista de mai jos, spunându-le opinia ta despre ceea ce ei finanțează. Poți folosi <a href="#mostre">mostra de mai jos</a>.
+	</p>
+
+	<section>
+		<h2>Produse</h2>
+
+		<input placeholder="Introduceți numele produsului căutat" 
+			   type="text" class="filter_large" onkeyup="filterProducts(this, event)" />
+		<table class="simple_table">
+			<tr><th>Produs (Companie)</th><th>Ultima difuzare</th><th>Pagină contact</th></tr>
+			{{products}}
+		</table>
+
+		<p><i>* Medicamentele nu sunt incluse în această listă. Luați medicamentele recomandate de doctor, nu de reclame.</i></p>
+	</section>
+	<section>
+		<h2>Mostră email contact</h2>
+		<blockquote id="mostre">
+			<p>
+				Stimate doamne, stimați domni,
+			</p>
+			<p>
+				În calitate de client al companiei dumneavoastră, doresc să-mi manifest îngrijorarea asupra faptului că finanțați, prin procurarea de spațiu publicitar, televiziunile Antena3 sau RomâniaTV. 
+			</p>
+			<p>
+				Consider că acestea prezintă publicului larg informații tendențioase, false și manipulatoare, ajutând la subminarea statului de drept.
+			</p>
+			<p>
+				Din această cauză mă simt nevoit să nu mai cumpăr produsele firmei dumneavoastre, pentru a nu fi indirect un finanțator al presei de acest tip.
+			</p>
+			<p>
+				Sper că voi putea redeveni clientul dumneavoastră în viitor, când valorile firmei dumneavoastră se vor alinia mai bine cu ale mele, și veți finanța presă independentă, cu standarde jurnalistice și coduri etice solide.
+			</p>
+			<p>
+				Respectuos,
+			</p>
+		</blockquote>
+	</section>
+
+	<section>
+		<h2>Contact și ajutor</h2>
+		<p>Codul paginii și datele despre reclamele difuzate se găsesc pe github: <a href="">https://github.com</a>. Oricine dorește să ajute, poate deschide un issue sau trimite un pull request.</p>
+
+		<p>Autorii acestui site nu au nici o afiliere directă politică și nu reprezintă nici o companie, și nici un interes extern, doar al lor personal.</p>
+	</section>
+
+	<br/><hr/><br/>
+
+	<script type="text/javascript">{{script}}</script>
+</body>
+</html>

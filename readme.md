@@ -1,6 +1,6 @@
 # Journalistic ethics
 
-See template.html file for a succint and clear expression of the goals of this little page.
+See template.html file for a succint and clear expression of the goals of this little page. (Only in romanian for now. Will translate project soon.)
 
 # How to update the database
 
@@ -15,17 +15,25 @@ See template.html file for a succint and clear expression of the goals of this l
 5. commit & pull request
 
 # TODO
+    [] emails directly on the list instead of urls
+    [] scrollable div to restrict table height
+    [] references 
+        [x] links to similar things (see bottom of readme)
+        [] links with arguments for the bias, independent bodies for press correctness?
     [] is meta info in the header needed for seo?
-    [] buy domain
     [] english translation?
-        - contact links would be wrong cause they point to romanian pages
+        contact links would be wrong cause they point to romanian pages
+    [] setup publicly
+        [x] buy domain
+        [] publish on github
+        [] deploy
 
 # Referinte
-
-    http://www.aktual24.ro/campanie-initiata-de-un-cunoscut-ong-facem-apel-la-intreruperea-contractelor-de-publicitate-cu-antena-3-rtv-si-b1-tv/
 
    	https://en.wikipedia.org/wiki/Journalism_ethics_and_standards
 
     http://blog.tides.org/2010/10/15/dear-fox-advertiser/
+    
+    http://www.aktual24.ro/campanie-initiata-de-un-cunoscut-ong-facem-apel-la-intreruperea-contractelor-de-publicitate-cu-antena-3-rtv-si-b1-tv/
     
     http://www.aktual24.ro/dezinformarile-de-la-antena-3-si-romania-tv-sunt-taxate-dur-trei-branduri-puternice-isi-retrag-reclamele-de-la-cele-doua-posturi-mincinoase/

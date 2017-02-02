@@ -14,21 +14,21 @@ See template.html file for a succint and clear expression of the goals of this l
 
 5. commit & pull request
 
+# To deploy
+
+1. `wget https://raw.githubusercontent.com/SebastianZaha/ethical_journalism/master/index.html`
+2. there is no 2.
+
 # TODO
-    [] emails directly on the list instead of urls
-    [] scrollable div to restrict table height
+    [] ? scrollable div to restrict table height
     [] references 
         [x] links to similar things (see bottom of readme)
         [] links with arguments for the bias, independent bodies for press correctness?
-    [] is meta info in the header needed for seo?
+    [] ? is meta info in the header needed for seo
     [] english translation?
         contact links would be wrong cause they point to romanian pages
-    [] setup publicly
-        [x] buy domain
-        [] publish on github
-        [] deploy
 
-# Referinte
+# References
 
    	https://en.wikipedia.org/wiki/Journalism_ethics_and_standards
 

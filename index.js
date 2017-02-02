@@ -7,9 +7,16 @@ function sortAndFilter(db) {
     var result = {}
 
     for (var name of Object.keys(db).sort()) {
+        /*
+        Some companies do not have either url nor email, perhaps we should just ignore that?
+
         if (!db[name].url) {
             console.log('\t!', name, 'missing contact url')
         }
+        if (!db[name].email) {
+            console.log('\t!', name, 'missing email')
+        }
+        */
         result[name] = db[name]
     }
     
@@ -44,11 +51,11 @@ function generateHtml(db) {
 
     for (var name in db) {
         var comp = db[name].company ? ` (${db[name].company})` : '',
-            link = db[name].url ? `<a href="${db[name].url}">Contact / Email</a>` : ''
+            nameTd = db[name].url ? `<a href="${db[name].url}">${name + comp}</a>` : name + comp
         rows += `<tr id="${name}">` + 
-                   `<td>${name + comp}</td>` + 
+                   `<td>${nameTd}</td>` + 
                    `<td class="c">${db[name].last_broadcast}</td>` + 
-                   `<td class="c">${link}</td></tr>`
+                   `<td class="c">${db[name].email || ''}</td></tr>`
     }
 
     var html = tpl

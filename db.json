@@ -28,7 +28,7 @@
         "email": "romania@betano.com"
     },
     "Billa": {
-        "last_broadcast": "2017-02-01",
+        "last_broadcast": "2017-02-02",
         "url": "http://www.billa.ro/Billa/Contact/Contact/dd_bi_subpage.aspx",
         "email": "info@billa.ro"
     },
@@ -47,8 +47,8 @@
         "url": "https://www.carrefour.ro/utile/contact/",
         "email": "pr_carrefour@carrefour.com"
     },
-    "Citroen C3": {
-        "last_broadcast": "2017-02-01",
+    "Citroen": {
+        "last_broadcast": "2017-02-02",
         "url": "http://www.citroen.ro/contacteaza-ne/"
     },
     "Doncafe": {
@@ -65,13 +65,18 @@
         "url": "http://www.oetker.ro/ro-ro/contact/contact.html",
         "email": "office@oetker.ro"
     },
+    "Editura Orizonturi": {
+        "email": "orizonturi@editura-orizonturi.ro",
+        "last_broadcast": "2017-02-02",
+        "url": "http://www.editura-orizonturi.ro/contact/"
+    },
     "Frosta": {
         "last_broadcast": "2017-01-27",
         "url": "http://frosta.ro/ro/contact/contact.html",
         "email": "info@frosta.ro "
     },
     "Gothaer": {
-        "last_broadcast": "2017-02-01",
+        "last_broadcast": "2017-02-02",
         "url": "https://www.gothaer.ro/despre-noi/contact/",
         "email": "office@gothaer.ro"
     },
@@ -100,7 +105,7 @@
         "email": "info@librabank.ro"
     },
     "Listerine": {
-        "last_broadcast": "2017-02-01",
+        "last_broadcast": "2017-02-02",
         "url": "https://www.janssen.com/romania/despre-noi/contact"
     },
     "M&M": {
@@ -108,13 +113,23 @@
         "url": "https://www.facebook.com/MMsRomania/"
     },
     "Malta Travel": {
-        "last_broadcast": "2017-02-01",
+        "last_broadcast": "2017-02-02",
         "url": "http://www.malta.ro",
         "email": "maltaltd@malta.ro"
+    },
+    "Matache Macelarul": {
+        "company": "Cristim",
+        "email": "secretariat@cristim.ro",
+        "last_broadcast": "2017-02-02",
+        "url": ""
     },
     "Metro": {
         "last_broadcast": "2017-01-27",
         "url": "https://www.metro.ro/contact/trimite-o-sugestie"
+    },
+    "Milka": {
+        "last_broadcast": "2017-02-02",
+        "url": "https://contactus.mdlzapps.com/form?siteId=d1joEZ0clZa5d%2bJL3zjbWQ%3d%3d&ir=true"
     },
     "Neumarkt": {
         "last_broadcast": "2017-01-28",
@@ -131,7 +146,7 @@
         "email": "office@orbitromania.ro"
     },
     "Orhideea Gardens": {
-        "last_broadcast": "2017-01-31",
+        "last_broadcast": "2017-02-02",
         "url": "http://www.orhideeagardens.ro/contact",
         "email": "info@orhideeagardens.ro"
     },
@@ -141,7 +156,7 @@
         "email": "secretariat@paralela45.ro"
     },
     "Penny": {
-        "last_broadcast": "2017-01-29",
+        "last_broadcast": "2017-02-02",
         "url": "http://www.penny.ro/TopMetanavigation/Contact/Contact/pe_Contact.aspx"
     },
     "Pokerstars": {
@@ -159,7 +174,7 @@
         "url": "https://www.ferrero.ro/Contacts%20Page/?mail=1"
     },
     "Ryanair": {
-        "last_broadcast": "2017-02-01",
+        "last_broadcast": "2017-02-02",
         "url": ""
     },
     "Sanytol": {
@@ -167,12 +182,17 @@
         "url": ""
     },
     "Scandia Sibiu": {
-        "last_broadcast": "2017-02-01",
+        "last_broadcast": "2017-02-02",
         "url": "http://www.scandia.ro/contact.html"
     },
     "Selgros": {
-        "last_broadcast": "2017-02-01",
+        "last_broadcast": "2017-02-02",
         "url": "http://www.selgros.ro/contact"
+    },
+    "Speed Taxi": {
+        "email": "feedback@speedtaxi.ro",
+        "last_broadcast": "2017-02-02",
+        "url": "http://www.speedtaxi.ro/v3/contact/"
     },
     "Tide": {
         "company": "Procter & Gamble",
@@ -191,5 +211,20 @@
     "Vanish": {
         "last_broadcast": "2017-01-27",
         "url": "http://www.vanish.ro/contacta%C5%A3i-ne"
+    },
+    "Vel Pitar": {
+        "email": "pr.national@velpitar.ro",
+        "last_broadcast": "2017-02-02",
+        "url": "http://velpitar.ro/contact/"
+    },
+    "Viva Credit": {
+        "email": "info@vivacredit.ro",
+        "last_broadcast": "2017-02-02",
+        "url": "https://vivacredit.ro/contact"
+    },
+    "Winmasters": {
+        "email": "support.rom@winmasters.com",
+        "last_broadcast": "2017-02-02",
+        "url": "https://www.winmasters.ro/"
     }
 }

@@ -16,7 +16,7 @@ See template.html file for a succint and clear expression of the goals of this l
 
 # To deploy
 
-1. `wget https://raw.githubusercontent.com/SebastianZaha/ethical_journalism/master/index.html`
+1. `wget -O index.html https://raw.githubusercontent.com/SebastianZaha/ethical_journalism/master/index.html`
 2. there is no 2.
 
 # TODO

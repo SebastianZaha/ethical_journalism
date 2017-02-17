@@ -3,24 +3,26 @@ path = require('path')
 process = require('process')
 
 
-function sortAndFilter(db) {
+function sort(db) {
     var result = {}
-
     for (var name of Object.keys(db).sort()) {
-        /*
-        Some companies do not have either url nor email, perhaps we should just ignore that?
-
-        if (!db[name].url) {
-            console.log('\t!', name, 'missing contact url')
-        }
-        if (!db[name].email) {
-            console.log('\t!', name, 'missing email')
-        }
-        */
         result[name] = db[name]
     }
-    
     return result
+}
+
+function filter(db) {
+    var result = {}, 
+        date = new Date();
+    date.setDate(date.getDate() - 7);
+
+    for (var name of Object.keys(db)) {
+        // Skip products not advertiesed for at least a week
+        if (db[name].last_broadcast > date.toISOString().substring(0, 10)) {
+            result[name] = db[name]
+        }
+    }
+    return result    
 }
 
 function parseBroadcastLogs(db) {
@@ -70,9 +72,9 @@ var db = JSON.parse(fs.readFileSync('./db.json').toString())
 parseBroadcastLogs(db)
 console.log('Done Parsing...')
 
-var sorted = sortAndFilter(db)
+var sorted = sort(db)
 fs.writeFileSync('./db.json', JSON.stringify(sorted, null, 4))
 console.log('Wrote db.json')
 
-generateHtml(sorted)
+generateHtml(filter(sorted))
 console.log('Generated new html. Finished!')

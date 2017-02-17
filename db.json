@@ -3,6 +3,11 @@
         "last_broadcast": "2017-01-28",
         "url": "https://www.facebook.com/Airwaves.ro/"
     },
+    "Alevia": {
+        "email": "office@alevia.com.ro",
+        "last_broadcast": "2017-02-12",
+        "url": "https://www.alevia.com.ro/contacts/"
+    },
     "Apivita": {
         "last_broadcast": "2017-01-31",
         "url": "https://www.facebook.com/Apivita.Ro/"
@@ -17,10 +22,19 @@
         "url": "http://www.astra-passengers.ro/contact.html",
         "email": "astra@astra-passengers.ro"
     },
+    "Auto Schunn": {
+        "email": "office@schunn-service.ro",
+        "last_broadcast": "2017-02-12",
+        "url": "https://www.auto-schunn.ro/contact"
+    },
     "BRD": {
         "last_broadcast": "2017-01-25",
         "url": "https://www.brd.ro/en/contact-us",
         "email": "mybrdcontact@brd.ro"
+    },
+    "Barilla": {
+        "last_broadcast": "2017-02-12",
+        "url": "http://www.barilla.ro/mvc/contact?siteLanguage=ro"
     },
     "Betano": {
         "last_broadcast": "2017-01-31",
@@ -31,6 +45,10 @@
         "last_broadcast": "2017-02-02",
         "url": "http://www.billa.ro/Billa/Contact/Contact/dd_bi_subpage.aspx",
         "email": "info@billa.ro"
+    },
+    "Blue Air": {
+        "last_broadcast": "2017-02-12",
+        "url": "https://www.blueairweb.com/contact/"
     },
     "Bonux": {
         "company": "Procter & Gamble",
@@ -51,32 +69,50 @@
         "last_broadcast": "2017-02-02",
         "url": "http://www.citroen.ro/contacteaza-ne/"
     },
+    "Cotnari": {
+        "email": "marketing@cotnari.ro",
+        "last_broadcast": "2017-02-12",
+        "url": "http://www.cotnari.ro/ro/date-contact-cotnari-iasi"
+    },
     "Doncafe": {
         "last_broadcast": "2017-02-01",
         "url": "https://www.facebook.com/Doncafe"
     },
     "Dormeo": {
-        "last_broadcast": "2017-02-01",
+        "last_broadcast": "2017-02-12",
         "url": "http://www.dormeo.ro/contact/",
         "email": "info@ dormeo.ro"
     },
     "Dr Oetker": {
-        "last_broadcast": "2017-02-01",
+        "last_broadcast": "2017-02-12",
         "url": "http://www.oetker.ro/ro-ro/contact/contact.html",
         "email": "office@oetker.ro"
     },
+    "Duracell": {
+        "last_broadcast": "2017-02-12",
+        "url": "http://www.interbrands.ro/index.php/en/contact"
+    },
     "Editura Orizonturi": {
         "email": "orizonturi@editura-orizonturi.ro",
-        "last_broadcast": "2017-02-02",
+        "last_broadcast": "2017-02-12",
         "url": "http://www.editura-orizonturi.ro/contact/"
     },
+    "Elisse": {
+        "last_broadcast": "2017-02-12",
+        "url": "https://www.elisse.ro/ro/contact-curatatorie-spalatorie/sesizari-si-reclamatii.html"
+    },
+    "Fox Mezeluri": {
+        "email": "office@foxcom.ro",
+        "last_broadcast": "2017-02-12",
+        "url": "https://www.foxcom.ro/en/contact/"
+    },
     "Frosta": {
-        "last_broadcast": "2017-01-27",
+        "last_broadcast": "2017-02-12",
         "url": "http://frosta.ro/ro/contact/contact.html",
         "email": "info@frosta.ro "
     },
     "Gothaer": {
-        "last_broadcast": "2017-02-02",
+        "last_broadcast": "2017-02-12",
         "url": "https://www.gothaer.ro/despre-noi/contact/",
         "email": "office@gothaer.ro"
     },
@@ -85,7 +121,7 @@
         "url": "https://www.ing.ro/ing-in-romania/contact"
     },
     "Johnson's Baby": {
-        "last_broadcast": "2017-02-01",
+        "last_broadcast": "2017-02-12",
         "url": "https://www.johnsonsbaby.ro/contactati-ne",
         "email": "Jbaby_ro@its.jnj.com"
     },
@@ -94,18 +130,23 @@
         "last_broadcast": "2017-01-31",
         "url": "https://www.ferrero.ro/Contacts%20Page/?mail=1"
     },
+    "Kruk": {
+        "email": "office@kruk.com.ro",
+        "last_broadcast": "2017-02-12",
+        "url": "http://ro.kruk.eu/"
+    },
     "Lenor": {
         "company": "Procter & Gamble",
         "last_broadcast": "2017-01-28",
         "url": "https://pgconsumersupport.secure.force.com/ContactUs/emailus?brand=P%26G&country=Romania&language=Romanian"
     },
     "Libra Bank": {
-        "last_broadcast": "2017-01-31",
+        "last_broadcast": "2017-02-12",
         "url": "https://www.librabank.ro/contact",
         "email": "info@librabank.ro"
     },
     "Listerine": {
-        "last_broadcast": "2017-02-02",
+        "last_broadcast": "2017-02-12",
         "url": "https://www.janssen.com/romania/despre-noi/contact"
     },
     "M&M": {
@@ -113,15 +154,19 @@
         "url": "https://www.facebook.com/MMsRomania/"
     },
     "Malta Travel": {
-        "last_broadcast": "2017-02-02",
+        "last_broadcast": "2017-02-12",
         "url": "http://www.malta.ro",
         "email": "maltaltd@malta.ro"
     },
     "Matache Macelarul": {
         "company": "Cristim",
         "email": "secretariat@cristim.ro",
-        "last_broadcast": "2017-02-02",
+        "last_broadcast": "2017-02-12",
         "url": ""
+    },
+    "Merci": {
+        "last_broadcast": "2017-02-12",
+        "url": "http://www.desilva.ro/produse/food/merci"
     },
     "Metro": {
         "last_broadcast": "2017-01-27",
@@ -130,6 +175,15 @@
     "Milka": {
         "last_broadcast": "2017-02-02",
         "url": "https://contactus.mdlzapps.com/form?siteId=d1joEZ0clZa5d%2bJL3zjbWQ%3d%3d&ir=true"
+    },
+    "Mol Romania": {
+        "email": "contact@molromania.ro",
+        "last_broadcast": "2017-02-12",
+        "url": "https://molromania.ro/ro/contact/relatii-clienti-persoane-fizice"
+    },
+    "Netbet": {
+        "last_broadcast": "2017-02-12",
+        "url": "https://sport.netbet.ro/"
     },
     "Neumarkt": {
         "last_broadcast": "2017-01-28",
@@ -151,7 +205,7 @@
         "email": "info@orhideeagardens.ro"
     },
     "Paralela 45": {
-        "last_broadcast": "2017-01-27",
+        "last_broadcast": "2017-02-12",
         "url": "http://www.paralela45.ro/contact",
         "email": "secretariat@paralela45.ro"
     },
@@ -168,13 +222,18 @@
         "url": "http://www.profi.ro/contact/sediul_central_profi.html#.WJI7qxsrJLk",
         "email": "contact@profi.ro"
     },
+    "Puflene Resort": {
+        "email": "office@pufleneresort.ro",
+        "last_broadcast": "2017-02-12",
+        "url": "http://www.pufleneresort.ro/en/contact/"
+    },
     "Raffaello": {
         "company": "Ferrero",
         "last_broadcast": "2017-02-01",
         "url": "https://www.ferrero.ro/Contacts%20Page/?mail=1"
     },
     "Ryanair": {
-        "last_broadcast": "2017-02-02",
+        "last_broadcast": "2017-02-12",
         "url": ""
     },
     "Sanytol": {
@@ -189,9 +248,14 @@
         "last_broadcast": "2017-02-02",
         "url": "http://www.selgros.ro/contact"
     },
+    "Sensiblu": {
+        "email": "contact@adpharma.ro",
+        "last_broadcast": "2017-02-12",
+        "url": "https://www.sensiblu.com/index.php?page=pagini&PageId=Contact_24"
+    },
     "Speed Taxi": {
         "email": "feedback@speedtaxi.ro",
-        "last_broadcast": "2017-02-02",
+        "last_broadcast": "2017-02-12",
         "url": "http://www.speedtaxi.ro/v3/contact/"
     },
     "Tide": {
@@ -204,7 +268,7 @@
         "url": "http://beretimisoreana.ro/contact/"
     },
     "V-Tac": {
-        "last_broadcast": "2017-01-31",
+        "last_broadcast": "2017-02-12",
         "url": "http://www.v-tac-led.ro/contact",
         "email": "vanzari@v-tac-led.ro"
     },
@@ -219,12 +283,12 @@
     },
     "Viva Credit": {
         "email": "info@vivacredit.ro",
-        "last_broadcast": "2017-02-02",
+        "last_broadcast": "2017-02-12",
         "url": "https://vivacredit.ro/contact"
     },
     "Winmasters": {
         "email": "support.rom@winmasters.com",
-        "last_broadcast": "2017-02-02",
+        "last_broadcast": "2017-02-12",
         "url": "https://www.winmasters.ro/"
     }
 }
